@@ -1,0 +1,17 @@
+{
+  "name": "polite",
+  "version": "0.0.1",
+  "description": "little polish notation interpreter",
+  "main": "index.js",
+  "scripts": {
+    "repl": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "interpreter",
+    "polish-notation",
+    "дайтеденяк"
+  ],
+  "author": "slaviqueue",
+  "license": "MIT"
+}
